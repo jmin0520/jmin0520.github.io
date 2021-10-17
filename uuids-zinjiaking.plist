@@ -10,7 +10,7 @@
 		<key>Mark</key>
 		<string>我的激鬥</string>
 		<key>UUID</key>
-		<string></string>
+		<string>5F1917AC-1318-4D64-9039-8AA69AE2AC70</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -391,13 +391,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-11-11T05:20:00Z</date>
+		<date>2021-11-17T18:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>H</string>
+		<string>官方賴林哲弘</string>
 		<key>UUID</key>
-		<string></string>
+		<string>E12AD585-C1F6-473C-8437-5879738971F2</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3364,13 +3364,13 @@
 	<string>激鬥版本</string>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-09-26T06:40:00Z</date>
+		<date>2021-12-27T06:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>mos777月卡</string>
-		<key>UUID</key>
 		<string></string>
+		<key>UUID</key>
+		<string>B8AF4882-4834-4F92-B4EA-4CE8297F0583</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3378,19 +3378,9 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>Gyes90236</string>
-		<key>UUID</key>
 		<string></string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>8602C27B-DA12-4C5E-B943-3D7D5657C643</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3400,7 +3390,7 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>D0510769-7347-477D-8352-1D7EADEC9EDE</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3410,7 +3400,7 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>947DC62E-98A7-41FC-8B9E-3D6AE8C1B6FB</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3420,7 +3410,17 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>CA37769A-33B6-4B4F-9B59-4B8A1D148B02</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2021-12-27T00:00:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>Anything </string>
+		<key>UUID</key>
+		<string>5651A8AA-6142-4EEE-947E-9C92ED1F2328</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4529,23 +4529,24 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
+		<date>2021-10-23T15:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>57D7DB33-480F-49DE-A403-0EB4587E1F6E</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
+		<date>2021-10-24T10:30:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>42BB6D4B-
+E186-4E39-B251-7ABBF5A97E15</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>

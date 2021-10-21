@@ -97,8 +97,6 @@
 		<date>2021-12-27T00:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-              <key>Feature</key>
-		<integer>7</integer>
 		<key>Mark</key>
 		<string>Htest</string>
 		<key>UUID</key>
@@ -3504,13 +3502,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
+		<date>2021-10-29T17:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string></string>
 		<key>UUID</key>
-		<string></string>
+		<string>F4F5729F-6546-470D-B948-2A78F9C1E727</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4169,13 +4167,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-14T07:30:00Z</date>
+		<date>2021-11-22T16:45:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>luhan1120薑餅月卡</string>
+		<string>sufatfat1薑餅月卡</string>
 		<key>UUID</key>
-		<string>470F9F7E-780C-4D6E-9C48-6071A2EDD55F</string>
+		<string>F65AF6A7-3CCE-4BCB-926E-0C306011F2B5</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4185,7 +4183,7 @@
 		<key>Mark</key>
 		<string>a0917871713月卡制</string>
 		<key>UUID</key>
-		<string>E79C1EFB-9199-4B88-812C-6BC23092A7BF</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4205,7 +4203,7 @@
 		<key>Mark</key>
 		<string>f88615251月卡制</string>
 		<key>UUID</key>
-		<string>3BCA6460-BDBA-4D49-8467-0DBAEA9E88EE</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4215,7 +4213,7 @@
 		<key>Mark</key>
 		<string>loveweichi月卡制</string>
 		<key>UUID</key>
-		<string>D86E5F8D-42E3-4FC6-B37C-F4F02F4D6A7C</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>EndDate</key>

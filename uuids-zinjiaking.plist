@@ -58,7 +58,7 @@
 		<key>Mark</key>
 		<string>我的明日</string>
 		<key>UUID</key>
-		<string>747F5A08-C270-4018-91ED-51E00D71BAC6</string>
+		<string>96AA7218-D938-4F1C-A012-B0565D4D0272</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -70,7 +70,7 @@
 		<key>Mark</key>
 		<string>我的骰子</string>
 		<key>UUID</key>
-		<string>16F0503D-6928-45DA-8D8C-1EB820BDAA68</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -102,7 +102,7 @@
 		<key>Mark</key>
 		<string>H14.6</string>
 		<key>UUID</key>
-		<string>1A7112B2-FF77-4002-B9C7-725ACA98F55F</string>
+		<string></string>
 	</dict>
 	<string>傳說區</string>
 	<string>傳說區</string>
@@ -401,6 +401,56 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
+		<date>2021-12-18T09:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>H</string>
+		<key>UUID</key>
+		<string>4794023F-9E77-455E-BE0F-5D7CC5D0FBE5</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2021-12-21T16:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>H</string>
+		<key>UUID</key>
+		<string>7EEC7B60-BF84-459E-B6CD-143B7B1A81F1</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2021-12-21T16:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>H</string>
+		<key>UUID</key>
+		<string>5D50C790-2393-4E47-B5B3-D834BF80E93B</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2021-11-21T04:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>H</string>
+		<key>UUID</key>
+		<string>4FD1EA87-6D8B-4E54-B81C-CD870BB2C16A</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2021-11-11T05:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>H</string>
+		<key>UUID</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
 		<date>2021-11-11T05:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
@@ -480,15 +530,15 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-19T12:10:00Z</date>
+		<date>2021-11-21T05:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
                 <key>LeaderBoard</key>
                 <integer>1</integer>
 		<key>Mark</key>
-		<string>nero1030月卡</string>
+		<string>ghertkers月卡</string>
 		<key>UUID</key>
-		<string>918C02FE-3469-434A-B6BE-4B16F0FA1414</string>
+		<string>E7558A97-8E1F-48CD-BEC0-A6840B93DAF5</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -1838,7 +1888,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-20T16:10:00Z</date>
+		<date>2021-11-20T16:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
                 <key>LeaderBoard</key>
@@ -1952,7 +2002,7 @@
 		<key>Mark</key>
 		<string>keithjump月卡</string>
 		<key>UUID</key>
-		<string>A157ED93-0FBC-4690-BB48-EA189EF62F14</string>
+		<string>3B9B0105-479D-4970-ADAD-80D8985899EF</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -1997,13 +2047,13 @@
 	<string>弓箭傳說區</string>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-17T04:50:00Z</date>
+		<date>2021-11-19T07:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>jmsu520月卡</string>
+		<string>H月卡</string>
 		<key>UUID</key>
-		<string>02F8FCA5-5D44-44A7-84D1-937F7AF34E42</string>
+		<string>6E653E1C-036E-4D3A-B30F-B3C6A6BC89C5</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -2057,13 +2107,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-11T03:10:00Z</date>
+		<date>2021-11-19T07:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>jameswu666月卡</string>
 		<key>UUID</key>
-		<string>2EB62516-A3CB-42BB-AF15-29DD76B420AD</string>
+		<string>36D1A181-AB8A-4743-9B3E-0E4D365EB035</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -2277,23 +2327,23 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-08-17T12:25:00Z</date>
+		<date>2021-11-18T09:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>H月卡</string>
+		<string>官方賴Peter兄月卡</string>
 		<key>UUID</key>
-		<string></string>
+		<string>660A459B-55E4-457E-905E-A31B808A6A8F</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-09-06T16:30:00Z</date>
+		<date>2021-11-20T09:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>jj6758222月卡</string>
+		<string>lythgd月卡</string>
 		<key>UUID</key>
-		<string></string>
+		<string>E66BA2ED-E472-46E8-87FE-130D193BD671</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3430,7 +3480,7 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>DFAC656C-226A-40BB-8B4D-D5A54E835501</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3440,7 +3490,7 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>EFDF52AC-1200-4440-9E6B-C9DB20663FB7</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3450,7 +3500,7 @@
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>C1EEDF4C-00CC-4E6B-BC10-15EF46505D2F</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -3458,7 +3508,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>Anything </string>
+		<string></string>
 		<key>UUID</key>
 		<string></string>
 	</dict>
@@ -3739,23 +3789,23 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
+		<date>2021-11-17T13:15:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>kaiyu1013版本制</string>
+		<string>love08120414月卡</string>
 		<key>UUID</key>
-		<string></string>
+		<string>7D325916-B47E-4F88-9710-E8A6093DA4E0</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-09-04T08:30:00Z</date>
+		<date>2021-11-18T09:50:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>yeyungyi月卡</string>
+		<string>tw4493月卡</string>
 		<key>UUID</key>
-		<string></string>
+		<string>68402A15-7A97-4C56-A3AE-1B28DCC24868</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4109,7 +4159,7 @@
 	<string>薑餅人王國</string>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-23T20:15:00Z</date>
+		<date>2021-11-23T20:15:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>

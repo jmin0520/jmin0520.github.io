@@ -100,9 +100,9 @@
               <key>Feature</key>
 		<integer>7</integer>
 		<key>Mark</key>
-		<string>H14.6</string>
+		<string>Htest</string>
 		<key>UUID</key>
-		<string></string>
+		<string>C0680338-178D-407E-936F-6E6026809998</string>
 	</dict>
 	<string>傳說區</string>
 	<string>傳說區</string>
@@ -377,7 +377,7 @@
 		<key>Mark</key>
 		<string>H</string>
 		<key>UUID</key>
-		<string>BB01E69E-B770-4399-AE35-1921DAFCD577</string>
+		<string>AC301946-352D-430E-8C0F-35AAF47E6084</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -1786,7 +1786,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-18T08:20:00Z</date>
+		<date>2021-11-21T10:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
                 <key>LeaderBoard</key>

@@ -1036,7 +1036,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-10-23T04:30:00Z</date>
+		<date>2021-11-25T13:30:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
                 <key>LeaderBoard</key>
@@ -3412,13 +3412,13 @@
 	<string>激鬥版本</string>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T06:40:00Z</date>
+		<date>2021-11-12T14:30:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string></string>
 		<key>UUID</key>
-		<string></string>
+		<string>8602C27B-DA12-4C5E-B943-3D7D5657C643</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -4697,13 +4697,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2021-12-27T00:00:00Z</date>
+		<date>2021-11-01T15:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>Anything </string>
 		<key>UUID</key>
-		<string></string>
+		<string>E4B6B39C-8CC5-458D-B1F5-4A8994971306</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
